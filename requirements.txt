@@ -1,0 +1,7 @@
+django>=1.6.5
+pycrypto>=2.4
+requests>=1.0
+requests_oauthlib>=0.3
+oauthlib>=0.3.4
+django-all-access
+django-extensions
